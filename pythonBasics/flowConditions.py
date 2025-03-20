@@ -27,3 +27,6 @@ print("###############################")
 
 for m in range(10):
     print(m)
+
+for m in range(20):
+    print("Hello Range function", m)
