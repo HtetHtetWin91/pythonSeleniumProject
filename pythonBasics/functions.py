@@ -3,6 +3,7 @@ def GreetMe(name):
 
 GreetMe("Htet Htet Win")
 GreetMe("Htet ka lay")
+GreetMe("Yes, I am htet")
 
 def AddIntegers(a, b):
     print(a + b)
