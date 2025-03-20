@@ -19,5 +19,5 @@ driver.find_element(By.CSS_SELECTOR, "input[type='submit']").click()
 message = driver.find_element(By.CSS_SELECTOR, "[class*='alert-success']").text
 
 print(message)
-assert "success" in message
+assert "Successful!" in message
 driver.close()
