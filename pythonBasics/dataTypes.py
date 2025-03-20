@@ -35,6 +35,16 @@ print(valTuple)
 
 valDict = {"name":"Htet", "age":14, "birth":"Birth", "love":"love"}
 print(valDict["age"])
+print(valDict["birth"])
+print(valDict["love"])
+
+
+valDict = {"name":"UMya", "age":44, "birth":"Mingin", "love":"single"}
+print(valDict["age"])
+print(valDict["birth"])
+print(valDict["love"])
+print(valDict["name"])
+
 
 valDictDynamic = {}
 valDictDynamic["name"] = "Htet"
