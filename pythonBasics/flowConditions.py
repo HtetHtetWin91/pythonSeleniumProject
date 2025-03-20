@@ -4,6 +4,7 @@ if greeting == " GoodMorning":
 else:
     print("GoodNight")
     print("GoodDayToYou")
+    print("Sweet Dreams")
 print("GoodDay, ByeBye")
 
 for i in range(1, 10):
