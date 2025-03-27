@@ -52,3 +52,10 @@ valDictDynamic["age"] = 14
 valDictDynamic["passport"] = "MH003535"
 
 print(valDictDynamic)
+
+valDictDynamic2 = {}
+valDictDynamic2["name"] = "Birth"
+valDictDynamic2["age"] = 33
+valDictDynamic2["passport"] = "MH003535"
+
+print(valDictDynamic2)
