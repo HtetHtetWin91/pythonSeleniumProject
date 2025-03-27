@@ -15,3 +15,5 @@ print(str3.strip())
 
 print(str3.replace("Java", "Python"))
 
+print(str3.find("Java"))
+
