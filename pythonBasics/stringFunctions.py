@@ -13,3 +13,5 @@ print(str in splitString[0])
 
 print(str3.strip())
 
+print(str3.replace("Java", "Python"))
+
